@@ -8,10 +8,6 @@ public class Main {
     public static void main(String[] args) {
         int n = 0, num = 0;
         String str;
-        String2 test=new String2("22f");
-        test.InsertPlus();
-
-        System.out.println(test.out());
         Scanner in = new Scanner(System.in);
         System.out.println("Выберите задание");
         System.out.println("1. Задание №1\n2. Задание №2\n3. Задание №3");
